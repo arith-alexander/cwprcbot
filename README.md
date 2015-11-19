@@ -1,2 +1,2 @@
 # cwprcbot
-1
+Test repository for Chatwork bot https://github.com/arith-alexander/GithubChatworkBot
