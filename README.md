@@ -11,7 +11,7 @@ xcv
 123
 123123
 
-<img src='https://arismile-documents.s3.amazonaws.com/1444970125869.jpg' width='150' style="float:right">
+<img src='https://arismile-documents.s3.amazonaws.com/1444970125869.jpg' width='150' title="alt">
 
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
@@ -23,3 +23,6 @@ xcv
 
 
 <img src='https://arismile-documents.s3.amazonaws.com/1444970125869.jpg' width='400'>
+
+<img src='https://arismile-documents.s3.amazonaws.com/1444970125869.jpg' width='400'>
+<img src='https://arismile-documents.s3.amazonaws.com/P_20151015_020852_NT.jpg' width='400'>
