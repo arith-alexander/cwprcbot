@@ -1,3 +1,5 @@
+[[_TOC_]]
+
 # cwprcbot
 Test repository for Chatwork bot https://github.com/arith-alexander/GithubChatworkBot
 xzc
@@ -7,6 +9,9 @@ xcv
 xcv
 1
 123
+# cwprcbot2
+# cwprcbot3
+# cwprcbot4
 123
 123
 123123
